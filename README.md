@@ -8,7 +8,7 @@ This project presents a wireless, standalone embedded vision system that perform
 ## Problem Statement
 
 Hazy weather degrades visual clarity, impairing critical applications like:
-- Drone surveillance
+- Surveillance
 - Smart traffic management
 - Agricultural monitoring
 
