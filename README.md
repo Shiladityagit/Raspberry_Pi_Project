@@ -24,12 +24,6 @@ Design a **low-cost**, **wireless**, and **deployable edge solution** that:
 
 ---
 
-## 🖼️ Project Poster
-
-[🔗 View Poster (Google Drive)](https://drive.google.com/file/d/1KTl2bvPCenmUQb61Psf-PZZs_XTM_ONI/view?usp=sharing)
-
----
-
 ## 📽️ Demo Video
 
 [▶️ Watch Demo (Google Drive)](https://drive.google.com/file/d/1sDhG_0EkpA2Ef8wuL2IHMrGJysLdMkpt/view?usp=sharing)
